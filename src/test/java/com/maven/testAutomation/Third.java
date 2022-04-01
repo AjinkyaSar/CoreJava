@@ -19,6 +19,7 @@ public class Third {
 	public void threeTwo()
 	{
 		System.out.println("3 2nd");
+		System.out.println("Hello World!");
 	}
 
 }
