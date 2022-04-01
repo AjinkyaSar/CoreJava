@@ -14,7 +14,11 @@ public class Third {
 	{
 		System.out.println("3 1st");
 	}
-	
+	@Test
+	public void threeOne1()
+	{
+		System.out.println("3 243541st");
+	}
 	@Test
 	public void threeTwo()
 	{

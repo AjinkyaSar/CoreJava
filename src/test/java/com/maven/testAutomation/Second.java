@@ -9,7 +9,11 @@ public class Second {
 		System.out.println("2 1st");
 		System.out.println("Hello World!");
 	}
-	
+	@Test
+	public void twoTwo2()
+	{
+		System.out.println("2 22242424nd");
+	}
 	@Test
 	public void twoTwo()
 	{
