@@ -22,7 +22,7 @@ public class Second {
 	@Test
 	public void twoTwo1234567()
 	{
-		System.out.println("2 2455nd");
+		System.out.println("2 245nd");
 	}
 
 }
