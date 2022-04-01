@@ -7,6 +7,7 @@ public class First {
 	public void oneOne()
 	{
 		System.out.println("1 1st");
+		System.out.println("Hello World!");
 	}
 	
 	@Test

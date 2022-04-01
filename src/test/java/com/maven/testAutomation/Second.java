@@ -7,6 +7,7 @@ public class Second {
 	public void twoOne()
 	{
 		System.out.println("2 1st");
+		System.out.println("Hello World!");
 	}
 	
 	@Test
