@@ -19,5 +19,10 @@ public class Second {
 	{
 		System.out.println("2 2nd");
 	}
+	@Test
+	public void twoTwo1234567()
+	{
+		System.out.println("2 2455nd");
+	}
 
 }
